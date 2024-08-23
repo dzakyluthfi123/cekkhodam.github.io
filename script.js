@@ -22,7 +22,12 @@ document.getElementById('khodamForm').addEventListener('submit', function(event)
         " Si Kuda Goyang",
         " Macan Ompong",
         " Jokowi",
-        " Gibran"
+        " Gibran",
+        " Semut Gembul",
+        " Kambing Kepo",
+        " Macan Tutul",
+        " Burung Unta",
+        " Sapi Imut"
     ];
     
     
